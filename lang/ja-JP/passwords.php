@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' => 'A senha deve possuir no mínimo 6 caracteres e ser igual a confirmação.',
-    'reset' => 'Sua senha foi redefinida!',
-    'sent' => 'O link para redefinição de senha foi enviado para o seu e-mail!',
-    'token' => 'Token para recuperação de senha inválido.',
-    'user' => "Não encontramos nenhum usuário com esse endereço de e-mail.",
+    'password' => 'パスワードは最低６文字で、確認項目と一致している必要があります。',
+    'reset' => 'パスワードをリセットしました。',
+    'sent' => 'パスワードリセットメールを送信しました。',
+    'token' => 'このパスワードリセットトークンは無効です。',
+    'user' => "メールアドレスに一致するユーザーは存在していません。",
 
 ];

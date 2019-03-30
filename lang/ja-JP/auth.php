@@ -2,38 +2,38 @@
 
 return [
 
-    'profile'               => 'Perfil',
-    'logout'                => 'Sair',
-    'login'                 => 'Logar',
-    'login_to'              => 'Entre para iniciar sua sessão',
-    'remember_me'           => 'Lembrar-me',
-    'forgot_password'       => 'Lembrar senha',
-    'reset_password'        => 'Resetar Senha',
-    'enter_email'           => 'Entre com o seu endereço de e-mail',
-    'current_email'         => 'E-mail atual',
-    'reset'                 => 'Resetar',
-    'never'                 => 'Nunca',
+    'profile'               => 'プロフィール',
+    'logout'                => 'ログアウト',
+    'login'                 => 'ログイン',
+    'login_to'              => 'ログインしてください',
+    'remember_me'           => 'ログイン入力省略',
+    'forgot_password'       => 'パスワードを記憶する',
+    'reset_password'        => 'パスワードリセット',
+    'enter_email'           => 'メールアドレスを入力してください',
+    'current_email'         => '現在のメールアドレス',
+    'reset'                 => 'リセット',
+    'never'                 => '決して',
     
     'password' => [
-        'current'           => 'Senha',
-        'current_confirm'   => 'Confirmação da Senha',
-        'new'               => 'Nova Senha',
-        'new_confirm'       => 'Confirmação da Nova Senha',
+        'current'           => 'パスワード',
+        'current_confirm'   => 'パスワード確認',
+        'new'               => '新規パスワード',
+        'new_confirm'       => '新規パスワード確認',
     ],
     
     'error' => [
-        'self_delete'       => 'Erro: não pode se excluir!',
-        'no_company'        => 'Erro: Nenhuma empresa atribuída à sua conta. Por favor, entre em contato com o administrador do sistema.',
+        'self_delete'       => 'エラー: 削除はできません',
+        'no_company'        => 'エラー: このアカウントは会社登録されていません。システム管理者へ連絡してください。',
     ],
 
-    'failed'                => 'Essas credenciais não correspondem aos nossos registros.',
-    'disabled'              => 'Esta conta está desabilitada. Por favor, entre em contato com o administrador do sistema.',
-    'throttle'              => 'Muitas tentativas de login. Tente novamente em :seconds segundos.',
+    'failed'                => '入力情報された情報の該当が見つかりませんでした。',
+    'disabled'              => 'このアカウントは無効になっています。システム管理者へ連絡してください。',
+    'throttle'              => 'ログイン試行が規定回数を超えました。:seconds秒後に再開できます。',
 
     'notification' => [
-        'message_1'     => 'Você está recebendo este e-mail porque recebemos um pedido de redefinição de senha para sua conta.',
-        'message_2'     => 'Se você não pediu uma redefinição de senha, nenhuma ação adicional é necessária.',
-        'button'        => 'Recuperar senha',
+        'message_1'     => 'パスワード変更依頼があったため、このメールを送信されました。',
+        'message_2'     => 'パスワード変更依頼に心当たりがない場合、何もする必要はありません。',
+        'button'        => 'パスワードリカバリー',
     ],
 
 ];

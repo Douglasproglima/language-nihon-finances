@@ -2,11 +2,11 @@
 
 return [
 
-    'from_account'          => 'Da conta',
-    'to_account'            => 'Para conta',
+    'from_account'          => 'の口座から',
+    'to_account'            => '口座へ',
 
     'messages' => [
-        'delete'            => 'Do :from para :to (:amount)',
+        'delete'            => 'から :from へ :to (:amount)',
     ],
 
 ];

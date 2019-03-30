@@ -2,29 +2,29 @@
 
 return [
 
-    'this_year'             => 'Este Ano',
-    'previous_year'         => 'Ano Anterior',
-    'this_quarter'          => 'Este trimestre',
-    'previous_quarter'      => 'Trimestre anterior',
-    'last_12_months'        => 'Últimos 12 meses',
-    'profit_loss'           => 'Receitas & Despesas',
-    'gross_profit'          => 'Lucro Bruto',
-    'net_profit'            => 'Lucro líquido',
-    'total_expenses'        => 'Total Despesas',
-    'net'                   => 'Líquido',
+    'this_year'             => '今年',
+    'previous_year'         => '昨年',
+    'this_quarter'          => '四半期',
+    'previous_quarter'      => '前回四半期',
+    'last_12_months'        => '最後の12ヶ月',
+    'profit_loss'           => '利益＆費用',
+    'gross_profit'          => '総益',
+    'net_profit'            => '利益',
+    'total_expenses'        => '総費用',
+    'net'                   => '正価',
 
     'summary' => [
-        'income'            => 'Resumo de Pagos',
-        'expense'           => 'Resumo de Despesas',
-        'income_expense'    => 'Receita vs Despesa',
-        'tax'               => 'Resumo Financeiro',
+        'income'            => '利益概要',
+        'expense'           => '費用概要',
+        'income_expense'    => '貸借対照表',
+        'tax'               => 'ファイナンス概要',
     ],
 
     'quarter' => [
-        '1'                 => 'Jan-Mar',
-        '2'                 => 'Abr-Jun',
-        '3'                 => 'Jul-Set',
-        '4'                 => 'Out-Dez',
+        '1'                 => '１月～３月',
+        '2'                 => '４月～６月',
+        '3'                 => '７月～９月',
+        '4'                 => '１０月～１２月',
     ],
 
 ];

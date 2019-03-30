@@ -3,8 +3,8 @@
 return [
 
     'whoops'              => 'Ops!',
-    'hello'               => 'Bem vindo!',
-    'salutation'          => 'Saudação,<br> :company_name',
-    'subcopy'             => 'Se você estiver com problemas para clicar no botão ":text", copie e cole o URL abaixo em seu navegador da web: [:url](:url)',
+    'hello'               => 'ようこそ！',
+    'salutation'          => 'ようこそ,<br> :company_name',
+    'subcopy'             => '「:text」のボタンをクリックできない場合、以下のURLをコピーして、ブラウザーに貼り付けてください。[:url](:url)',
 
 ];

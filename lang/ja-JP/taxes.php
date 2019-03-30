@@ -2,10 +2,10 @@
 
 return [
 
-    'rate'                  => 'Taxa',
-    'rate_percent'          => 'Taxa (%)',
-    'normal'                => 'Normal',
-    'inclusive'             => 'Incluído',
-    'compound'              => 'Composto',
+    'rate'                  => '税金',
+    'rate_percent'          => '税率 (%)',
+    'normal'                => '通常',
+    'inclusive'             => '込み',
+    'compound'              => '福利',
 
 ];

@@ -2,15 +2,15 @@
 
 return [
 
-    'allow_login'           => 'Permitir Acesso?',
-    'user_created'          => 'Usuário criado',
+    'allow_login'           => 'アクセスを許可しますか？',
+    'user_created'          => 'ユーザーが登録されました',
 
     'error' => [
-        'email'             => 'Este e-mail já foi utilizado.'
+        'email'             => 'このメールアドレスは既に使われています。'
     ],
 
     'notification' => [
-        'message'       => ':customer fez o pagamento de :amount para a fatura de numero :invoice_number.',
-        'button'        => 'Mostrar',
+        'message'       => ':customer　様は、請求書番号：:invoice_numberの:amountを支払いました。',
+        'button'        => '表示',
     ],
 ];

@@ -2,14 +2,14 @@
 
 return [
 
-    'installed_version'     => 'Versão Instalada',
-    'latest_version'        => 'Última Versão',
-    'update'                => 'Atualiza o Akaunting para a versão :version',
+    'installed_version'     => 'インストールバージョン',
+    'latest_version'        => '最新バー上ん',
+    'update'                => 'Akaunting をバージョンへ :version更新する',
     'changelog'             => 'Changelog',
-    'check'                 => 'Verificar',
-    'new_core'              => 'Está disponível uma versão atualizada do Sistema Akaunting.',
-    'latest_core'           => 'Parabéns! Você tem a versão mais recente do Akaunting. Futuras atualizações de segurança serão aplicadas automaticamente.',
-    'success'               => 'A instalação foi completada com êxito.',
-    'error'                 => 'Houve um erro na atualização! Por favor tente novamente.',
+    'check'                 => '確認する',
+    'new_core'              => 'Akauntingシステムの新しいバージョンがあります。',
+    'latest_core'           => 'おめでとう！あなたが Akaunting　の最新版を持っています。今後のセキュリティアップデートが自動的に適用されます。',
+    'success'               => 'インストールが問題なく終了しました。',
+    'error'                 => 'インストールに問題がありました。再度行ってください。',
 
 ];

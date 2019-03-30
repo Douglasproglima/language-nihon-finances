@@ -2,8 +2,8 @@
 
 return [
 
-    'previous'              => '&laquo; Anterior',
-    'next'                  => 'Próximo &raquo;',
-    'showing'               => 'Mostrando :first de :last do :total :type',
+    'previous'              => '&laquo; 前',
+    'next'                  => '次 &raquo;',
+    'showing'               => '表示中 :first から :last 全 :total :type',
 
 ];

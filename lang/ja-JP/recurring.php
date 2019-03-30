@@ -2,19 +2,19 @@
 
 return [
 
-    'recurring'             => 'Recorrente',
-    'every'                 => 'Intervalo',
-    'period'                => 'Período',
-    'times'                 => 'Vezes',
-    'daily'                 => 'Diário',
-    'weekly'                => 'Semanal',
-    'monthly'               => 'Mensal',
-    'yearly'                => 'Anual',
-    'custom'                => 'Customizado',
-    'days'                  => 'Dia(s)',
-    'weeks'                 => 'Semana(s)',
-    'months'                => 'Mês (es)',
-    'years'                 => 'Ano(s)',
-    'message'               => 'Este é um :type recorrente e o próximo :type será automaticamente gerado no dia :date',
+    'recurring'             => '定期的',
+    'every'                 => '定期',
+    'period'                => '期間',
+    'times'                 => '回数',
+    'daily'                 => '毎日',
+    'weekly'                => '毎週',
+    'monthly'               => '毎月',
+    'yearly'                => '毎年',
+    'custom'                => 'カスタム',
+    'days'                  => '日',
+    'weeks'                 => '週',
+    'months'                => '月',
+    'years'                 => '年',
+    'message'               => 'これは定期的な :type 。次は :type :dateに自動的に生成されます。',
 
 ];

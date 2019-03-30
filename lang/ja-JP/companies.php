@@ -2,12 +2,12 @@
 
 return [
 
-    'domain'                => 'Endereço do site',
-    'logo'                  => 'Logotipo',
-    'manage'                => 'Gerenciar empresas',
-    'all'                   => 'Todas as empresas',
+    'domain'                => 'サイトURL',
+    'logo'                  => 'ロゴ',
+    'manage'                => '会社管理',
+    'all'                   => 'すべての会社',
     'error' => [
-        'delete_active'     => 'Erro: não é possível deletar a empresa em atividade, por favor altere o cadastro!',
+        'delete_active'     => 'エラー：有効な会社の削除はできません。登録情報を変更してください。',
     ],
 
 ];

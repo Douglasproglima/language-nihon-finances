@@ -2,15 +2,15 @@
 
 return [
 
-    'reconcile'             => 'Reconciliar',
-    'reconciled'            => 'Reconciliado',
-    'closing_balance'       => 'Fechamento de balanço',
-    'unreconciled'          => 'Não reconciliadas',
-    'list_transactions'     => 'Transações',
-    'start_date'            => 'Data de início',
-    'end_date'              => 'Data Final',
-    'cleared_amount'        => 'Quantidade liberada',
-    'deposit'               => 'Depósito',
-    'withdrawal'            => 'Saque',
+    'reconcile'             => '調整する',
+    'reconciled'            => '調整済み',
+    'closing_balance'       => '決算',
+    'unreconciled'          => '未調整',
+    'list_transactions'     => '取引',
+    'start_date'            => '開始日',
+    'end_date'              => '終了日',
+    'cleared_amount'        => '解放額',
+    'deposit'               => '入金',
+    'withdrawal'            => '出金',
 
 ];

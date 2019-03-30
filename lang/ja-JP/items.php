@@ -2,17 +2,17 @@
 
 return [
 
-    'quantities'            => 'Quantidade|Quantidades',
-    'sales_price'           => 'Preço de Venda',
-    'purchase_price'        => 'Preço de Compra',
+    'quantities'            => '数量',
+    'sales_price'           => '販売価格',
+    'purchase_price'        => '仕入れ価格',
     'sku'                   => 'SKU',
 
     'notification' => [
         'message'       => [
-            'reminder' => 'Você está recebendo este e-mail porque o item ":name" possui somente :quantity disponível no estoque.',
-            'out_of_stock' => 'Você está recebendo este e-mail porque o item :name está ficando sem estoque.',
+            'reminder' => 'あなたは、このメールを受信しているのは、商品 「:name」 の在庫の数量が :quantity になりました。',
+            'out_of_stock' => 'あなたは、このメールを受信しているのは、商品 「:name」の在庫がなくなっています。',
         ],
-        'button'        => 'Ver agora',
+        'button'        => '今確認する',
     ],
 
 ];

@@ -2,14 +2,14 @@
 
 return [
 
-    'change_language'       => 'Alterar Idioma',
-    'last_login'            => 'Último Login :time',
+    'change_language'       => '言語変更',
+    'last_login'            => '最終ログイン :time',
     'notifications' => [
-        'counter'           => '{0} Você não tem notificação|{1} Você tem :count notificação|[2,*] Você tem :count notificações',
-        'overdue_invoices'  => '{1} :count nota atrasada|[2,*] :count notas atrasadas',
-        'upcoming_bills'    => '{1} :count vencimento atual|[2,*] :count vencimentos atual',
-        'items_stock'       => '{1}: item de contagem fora de estoque | [2, *]: contar itens fora de estoque',
-        'view_all'          => 'Visualizar todos'
+        'counter'           => '{0} あなたは通知はありません。|{1} あなたは通知 :count 件あります。|[2,*] あなたは通知 :count 件あります。',
+        'overdue_invoices'  => '{1} :count 期限超過の請求書|[2,*] :count 期限超過の請求書',
+        'upcoming_bills'    => '{1} :count 期限|[2,*] :count 期限',
+        'items_stock'       => '{1}: 在庫対象外品 | [2, *]: 在庫対象外品を計算する',
+        'view_all'          => 'すべて表示'
     ],
     'docs_link'             => 'https://akaunting.com/docs',
 

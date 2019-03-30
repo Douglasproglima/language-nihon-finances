@@ -2,8 +2,8 @@
 
 return [
 
-    'import'                => 'Importar',
-    'title'                 => 'Importação: tipo',
-    'message'               => 'Tipos de arquivos permitidos: XLS, XLSX. Por favor, <a target="_blank" href=":link"><strong>clique aqui, para baixar o arquivo de exemplo</strong></a>.',
+    'import'                => 'インポート',
+    'title'                 => 'インポート: 種類',
+    'message'               => '使用できるファイル: XLS, XLSX.<a target="_blank" href=":link"><strong>テンプレートファイルをダウンロードするには、ここにクリックしてください。</strong></a>.',
 
 ];
